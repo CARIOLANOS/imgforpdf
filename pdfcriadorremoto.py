@@ -2,7 +2,8 @@ import streamlit as st
 from PIL import Image
 import os
 
-st.title("🖼️ Imagens para PDF")
+st.title("🖼️ JPEG para PDF")
+st.header("by Cariolano")
 st.write("Selecione suas imagens e defina a qualidade do PDF.")
 
 # Upload de múltiplas imagens
